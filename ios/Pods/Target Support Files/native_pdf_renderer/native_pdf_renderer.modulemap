@@ -1,0 +1,6 @@
+framework module native_pdf_renderer {
+  umbrella header "native_pdf_renderer-umbrella.h"
+
+  export *
+  module * { export * }
+}

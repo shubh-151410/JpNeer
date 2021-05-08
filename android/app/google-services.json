@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707755016773",
+    "project_id": "jpneer-c0608",
+    "storage_bucket": "jpneer-c0608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707755016773:android:16c5ab58ee47bb9d8c192c",
+        "android_client_info": {
+          "package_name": "com.jpneer.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707755016773-cibllbv2j91oq39lgp3ribuj5s99e2vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jpneer.org",
+            "certificate_hash": "ad3e8273673a002d4a44650bd1a74b512039b32e"
+          }
+        },
+        {
+          "client_id": "707755016773-ed9t4n24h6pg58j1qj23l34erbf50p97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4beX2qkRCVfzUzT3djPjR1nK4MGSrXc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707755016773-ed9t4n24h6pg58j1qj23l34erbf50p97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

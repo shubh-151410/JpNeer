@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="android.android_intent" target="1.8" />
+      <module name="android.app" target="1.8" />
+      <module name="android.device_info" target="1.8" />
+      <module name="android.firebase_core" target="1.8" />
+      <module name="android.firebase_messaging" target="1.8" />
+      <module name="android.flutter_inappbrowser" target="1.8" />
+      <module name="android.flutter_plugin_android_lifecycle" target="1.8" />
+      <module name="android.fluttertoast" target="1.8" />
+      <module name="android.geolocator" target="1.8" />
+      <module name="android.google_api_availability" target="1.8" />
+      <module name="android.google_map_location_picker" target="1.8" />
+      <module name="android.google_maps_flutter" target="1.8" />
+      <module name="android.location" target="1.8" />
+      <module name="android.location_permissions" target="1.8" />
+      <module name="android.location_web" target="1.8" />
+      <module name="android.native_pdf_renderer" target="1.8" />
+      <module name="android.package_info" target="1.8" />
+      <module name="android.path_provider" target="1.8" />
+      <module name="android.shared_preferences" target="1.8" />
+      <module name="android.shared_preferences_macos" target="1.8" />
+      <module name="android.shared_preferences_web" target="1.8" />
+      <module name="android.sqflite" target="1.8" />
+      <module name="android.url_launcher" target="1.8" />
+      <module name="android.url_launcher_macos" target="1.8" />
+      <module name="android.url_launcher_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

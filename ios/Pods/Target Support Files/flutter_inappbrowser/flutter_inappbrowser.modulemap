@@ -1,0 +1,6 @@
+framework module flutter_inappbrowser {
+  umbrella header "flutter_inappbrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}

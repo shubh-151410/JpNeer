@@ -1,0 +1,28 @@
+{
+  "name": "native_pdf_renderer",
+  "version": "1.0.0",
+  "summary": "Flutter Plugin to render a PDF file.",
+  "description": "Flutter Plugin to render a PDF file.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Serge Shkurko": "sergeshkurko@outlook.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "5.0"
+}

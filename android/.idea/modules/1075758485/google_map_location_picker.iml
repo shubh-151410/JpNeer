@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/google_map_location_picker/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/google_maps_flutter/intermediates/intermediate-jars/debug/classes.jar;C:/Users/Shubh/OneDrive/Desktop/multivendor/build/geolocator/intermediates/intermediate-jars/debug/classes.jar;C:/Users/Shubh/OneDrive/Desktop/multivendor/build/android_intent/intermediates/intermediate-jars/debug/classes.jar;C:/Users/Shubh/OneDrive/Desktop/multivendor/build/package_info/intermediates/intermediate-jars/debug/classes.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-ee76268252c22f5c11e82a7b87423ca3982e51a7/6733cc5751a458b7d2e3d0c71b95cb99327d4f82/flutter_embedding_debug-1.0.0-ee76268252c22f5c11e82a7b87423ca3982e51a7.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.31/e652770b6416c6d85934086899ffed3eccd35813/kotlin-stdlib-jdk7-1.3.31.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5fa0bf5338c3b66660e5403dbc0f7840/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/play-services-base-17.2.1.aar/2d363e0a2cc05c363c55045bd14bbc81/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/02244157b94f266cc515e3386db017ba/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.2.aar/a563fcea41529454301b4e233a1a18b2/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.2.1.aar/257c5df52a9e9b447aba77b2af54fcf6/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/be45401695fc9e32e18c372ef463436a/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d61111e6f01b4db097cc458ff62f1142/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/30a4a89bb8ca9f46b81e51a5503771d5/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/069a99780e9e4410e818ff4a0ba83a19/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ab371c576a59351704834d87f6700ac7/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/7439913a9015153a3c3d651195023cda/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/0eab13cfe1f50ebd9fad3cb43304c386/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/59e45c27d8b10aa51c2aa24e38acbcd2/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/c11ec2ef42fa83d09ae4c830c940e85e/jars/classes.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/de9677985fdf218a38559828677e31d9/jars/classes.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/57aa8a81564a7f1a4ca959adc1a7cb96/jars/classes.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/8df426df580c7382ed1215f8c8cf5067/jars/classes.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/Shubh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5684a291731c26943599ea2206162035/jars/classes.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/11289d20fd95ae219333f3456072be9f081c30cc/kotlin-stdlib-1.3.31.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/20c34a04ea25cb1ef0139598bd67c764562cb170/kotlin-stdlib-common-1.3.31.jar;C:/Users/Shubh/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/Shubh/OneDrive/Desktop/multivendor/build/google_map_location_picker/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar;C:/Users/Shubh/AppData/Local/Android/Sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="google_map_location_picker_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/aidl_source_output_dir/debug/compileDebugAidl/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/debug" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/debug" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/apt/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/apt/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/apt/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/apt/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android">
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/res" type="java-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.2.1+2/android/src/test/shaders" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-ee76268252c22f5c11e82a7b87423ca3982e51a7@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-location:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:17.2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:17.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:17.2.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="module" module-name="google_maps_flutter" />
+    <orderEntry type="module" module-name="geolocator" />
+    <orderEntry type="module" module-name="android_intent" />
+    <orderEntry type="module" module-name="package_info" />
+  </component>
+</module>
